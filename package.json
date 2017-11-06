@@ -1,0 +1,17 @@
+{
+  "name": "karatsuba",
+  "version": "1.0.0",
+  "description": "Implementation of the Karatsuba integer multiplication algorithm in node.js",
+  "main": "karatsuba.js",
+  "scripts": {
+    "test": "jest test --watch"
+  },
+  "keywords": [
+    "karatsuba"
+  ],
+  "author": "Roman Volkov <parrker9@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "21.2.1"
+  }
+}
